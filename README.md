@@ -1,5 +1,5 @@
 # get_rip
-Crawler to obtain information about regional mortality rates in Germany. 
+Intelligent Crawler to obtain information about regional mortality rates in Germany. Image data is derived with OCR and tagged.
 
 
 Collaborators: Henning Husemann https://github.com/hhusemann and Thea Behrens https://github.com/TheaBehrens
